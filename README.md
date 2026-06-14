@@ -2,7 +2,7 @@
 
 > An AI-powered full-stack study platform that generates personalized quizzes, study plans, and provides an intelligent AI tutor.
 
-🌐 **Live Demo**: [http://nirikshan-study.duckdns.org](http://nirikshan-study.duckdns.org)
+🌐 🌐 **Live Demo**: [Coming Soon](https://github.com/Harshitha-manchuru/AI-Study-Planner)
 
 
 ## ✨ Features
@@ -147,10 +147,10 @@ AI-study-planner/
 
 ## 👨‍💻 Author
 
-**Nirikshan K**
-- 📧 nirikshan03@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/nirikshan-k-933107282)
-- 🐙 [GitHub](https://github.com/Nirikshan03)
+**Manchuru Harshitha**
+- 📧 manchuruharshitha@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/manchuru-harshitha-6a4469331/)
+- 🐙 [GitHub](https://github.com/Harshitha-manchuru)
 
 ---
 
