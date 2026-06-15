@@ -2,7 +2,9 @@
 
 > An AI-powered full-stack study platform that generates personalized quizzes, study plans, and provides an intelligent AI tutor.
 
-🌐 🌐 **Live Demo**: [Coming Soon](https://github.com/Harshitha-manchuru/AI-Study-Planner)
+🌐 Frontend: https://ai-study-planner-frontend-urlo.onrender.com
+⚙️ Backend: https://ai-study-planner-backend-1zsa.onrender.com
+💻 GitHub: https://github.com/Harshitha-manchuru/AI-Study-Planner
 
 
 ## ✨ Features
