@@ -1,4 +1,4 @@
-const BASE_URL = "/api";
+const BASE_URL = "https://ai-study-planner-backend-1zsa.onrender.com/api";
 
 const getToken = () => localStorage.getItem("token") || "";
 
